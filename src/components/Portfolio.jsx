@@ -5,51 +5,51 @@ import { Link } from "react-router-dom";
 const portfolioCategories = [
   {
     id: 1,
-    name: "Cars",
-    category: "cars",
+    name: "Baby Gallery",
+    category: "Babygallery",
     image:
-      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=500&h=400&fit=crop",
-    description: "Luxury and sports cars collection",
+      "cover/Babycover.jpg",
+    description: "Tiny moments, forever held close",
   },
   {
     id: 2,
-    name: "Bikes",
-    category: "bikes",
+    name: "Brahmin Wedding",
+    category: "Brahminwedding",
     image:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=400&fit=crop",
-    description: "Motorcycles and sport bikes",
+      "cover/Brahmincover.jpg",
+    description: "Sacred vows, chants, divine grace.",
   },
   {
     id: 3,
-    name: "Trucks",
-    category: "trucks",
+    name: "Christian Wedding",
+    category: "Christianwedding",
     image:
-      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=500&h=400&fit=crop",
-    description: "Heavy duty and commercial trucks",
+      "cover/Christiancover.jpg",
+    description: "Faithful hearts, bound in grace",
   },
   {
     id: 4,
-    name: "SUVs",
-    category: "suvs",
+    name: "Hindu Wedding",
+    category: "Hinduwedding",
     image:
-      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=500&h=400&fit=crop",
-    description: "Sport utility vehicles",
+      "cover/Hinducover.jpg",
+    description: "Tradition, color, love, eternal rituals.",
   },
   {
     id: 5,
-    name: "Boats",
-    category: "boats",
+    name: "Maternity",
+    category: "Maternity",
     image:
-      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=500&h=400&fit=crop",
-    description: "Yachts and speedboats",
+      "cover/Maternitycover.jpg",
+    description: "Before birth, beauty quietly blooms",
   },
   {
     id: 6,
-    name: "Aircraft",
-    category: "aircraft",
+    name: "PreWedding",
+    category: "PreWedding",
     image:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=500&h=400&fit=crop",
-    description: "Private jets and helicopters",
+      "cover/Preweddingcover.jpg",
+    description: "Whispers of love, before vows",
   },
 ];
 
@@ -123,3 +123,4 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
