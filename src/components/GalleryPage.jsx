@@ -9,12 +9,12 @@ import {
 } from "react-icons/fa";
 // Portfolio categories data (for finding category names)
 const portfolioCategories = [
-  { id: 1, name: "Cars", category: "cars" },
-  { id: 2, name: "Bikes", category: "bikes" },
-  { id: 3, name: "Trucks", category: "trucks" },
-  { id: 4, name: "SUVs", category: "suvs" },
-  { id: 5, name: "Boats", category: "boats" },
-  { id: 6, name: "Aircraft", category: "aircraft" },
+  { id: 1, name: "Baby Gallery", category: "Babygallery" },
+  { id: 2, name: "Brahmin Wedding", category: "Brahminwedding" },
+  { id: 3, name: "Christian Wedding", category: "Christianwedding" },
+  { id: 4, name: "Hindu Wedding", category: "Hinduwedding" },
+  { id: 5, name: "Maternity", category: "Maternity" },
+  { id: 6, name: "PreWedding", category: "PreWedding" },
 ];
 
 // Gallery images data for each category
@@ -363,3 +363,4 @@ const GalleryPage = () => {
 };
 
 export default GalleryPage;
+
