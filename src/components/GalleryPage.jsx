@@ -19,7 +19,7 @@ const portfolioCategories = [
 
 // Gallery images data for each category
 const galleryData = {
-  cars: [
+  Babygallery: [
     "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&h=1000&fit=crop",
     "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=800&h=500&fit=crop",
@@ -33,7 +33,7 @@ const galleryData = {
     "https://images.unsplash.com/photo-1493238792000-8113da705763?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=750&fit=crop",
   ],
-  bikes: [
+  Brahminwedding: [
     "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=700&fit=crop",
     "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?w=800&h=900&fit=crop",
     "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=800&h=600&fit=crop",
@@ -45,7 +45,7 @@ const galleryData = {
     "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1502744688674-c619d1586c9e?w=800&h=700&fit=crop",
   ],
-  trucks: [
+  Christianwedding: [
     "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1548191265-cc70d3d45ba1?w=800&h=800&fit=crop",
     "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&h=700&fit=crop",
@@ -55,7 +55,7 @@ const galleryData = {
     "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=800&h=650&fit=crop",
     "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=800&h=600&fit=crop",
   ],
-  suvs: [
+  Hinduwedding: [
     "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=700&fit=crop",
     "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1606016159348-d0beb1d665b2?w=800&h=850&fit=crop",
@@ -65,7 +65,7 @@ const galleryData = {
     "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800&h=650&fit=crop",
     "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=700&fit=crop",
   ],
-  boats: [
+  Maternity: [
     "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?w=800&h=900&fit=crop",
     "https://images.unsplash.com/photo-1580674285054-bed31e145f59?w=800&h=750&fit=crop",
@@ -79,7 +79,7 @@ const galleryData = {
     "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=700&fit=crop",
     "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=800&h=850&fit=crop",
   ],
-  aircraft: [
+  PreWedding: [
     "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1520637836862-4d197d17c12a?w=800&h=800&fit=crop",
     "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=800&h=700&fit=crop",
@@ -363,4 +363,5 @@ const GalleryPage = () => {
 };
 
 export default GalleryPage;
+
 
