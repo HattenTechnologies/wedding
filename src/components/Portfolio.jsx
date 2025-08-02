@@ -8,7 +8,7 @@ const portfolioCategories = [
     name: "Baby Gallery",
     category: "Babygallery",
     image:
-      "cover/Babycover.jpg",
+      "Cover/Babycover.jpg",
     description: "Tiny moments, forever held close",
   },
   {
@@ -16,7 +16,7 @@ const portfolioCategories = [
     name: "Brahmin Wedding",
     category: "Brahminwedding",
     image:
-      "cover/Brahmincover.jpg",
+      "Cover/Brahmincover.jpg",
     description: "Sacred vows, chants, divine grace.",
   },
   {
@@ -24,7 +24,7 @@ const portfolioCategories = [
     name: "Christian Wedding",
     category: "Christianwedding",
     image:
-      "cover/Christiancover.jpg",
+      "Cover/Christiancover.jpg",
     description: "Faithful hearts, bound in grace",
   },
   {
@@ -32,7 +32,7 @@ const portfolioCategories = [
     name: "Hindu Wedding",
     category: "Hinduwedding",
     image:
-      "cover/Hinducover.jpg",
+      "Cover/Hinducover.jpg",
     description: "Tradition, color, love, eternal rituals.",
   },
   {
@@ -40,7 +40,7 @@ const portfolioCategories = [
     name: "Maternity",
     category: "Maternity",
     image:
-      "cover/Maternitycover.jpg",
+      "Cover/Maternitycover.jpg",
     description: "Before birth, beauty quietly blooms",
   },
   {
@@ -48,7 +48,7 @@ const portfolioCategories = [
     name: "PreWedding",
     category: "PreWedding",
     image:
-      "cover/Preweddingcover.jpg",
+      "Cover/Preweddingcover.jpg",
     description: "Whispers of love, before vows",
   },
 ];
@@ -123,4 +123,5 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
 
